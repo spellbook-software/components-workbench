@@ -1,0 +1,15 @@
+node_modules
+*.log
+.idea
+.vscode
+*.sw*
+npm-shrinkwrap.json
+dist
+*.DS_Store
+.cache
+coverage/
+*.lerna_backup
+build
+package-lock.json
+.nvmrc
+htpasswd
