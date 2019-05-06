@@ -763,9 +763,9 @@
     empty "^0.10.1"
     jest "^24.8.0"
 
-"@spellbook/linter-config@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@spellbook/linter-config/-/linter-config-1.0.2.tgz#2dc14c754986f63d9bd387070d7d10b62d5bd848"
+"@spellbook/linter-config@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@spellbook/linter-config/-/linter-config-1.0.3.tgz#33188761f9d541555d628334646107ba5cfdba76"
   dependencies:
     babel-eslint "^10.0.1"
     eslint "^5.16.0"

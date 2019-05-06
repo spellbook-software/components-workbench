@@ -17,7 +17,7 @@
     "@babel/preset-env": "^7.4.4",
     "@babel/preset-react": "^7.0.0",
     "@spellbook/jest-config": "^0.1.2",
-    "@spellbook/linter-config": "^1.0.2",
+    "@spellbook/linter-config": "^1.0.3",
     "core-js": "3"
   }
 }
